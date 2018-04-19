@@ -1,7 +1,8 @@
 #========================================================================
 # Title:		ConfigMgr OneSite Boot Image Creation Script
-# Updated on:   09/20/2017
+# Updated on:   04/20/2018
 # Created by:   Gerry Borger
+# Edited by:    Chaz Spahn
 # Organization: Adaptiva
 # Filename:     CreateOneSiteBoot.ps1
 # Usage:		This script has two required parameters. 
